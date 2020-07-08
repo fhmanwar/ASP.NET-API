@@ -3,12 +3,15 @@
 to use url:
 
 GET ALL :
+
     https://localhost:44344/api/suppliers/
 
 GET ID :
+
     https://localhost:44344/api/suppliers/{id}
 
 POST :
+
     https://localhost:44344/api/suppliers/
 
     raw body:
@@ -17,6 +20,7 @@ POST :
     }
 
 PUT :
+
     https://localhost:44344/api/suppliers/{id}
 
     raw body:
@@ -26,4 +30,5 @@ PUT :
     }
 
 DELETE : 
+
     https://localhost:44344/api/suppliers/{id}
